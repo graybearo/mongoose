@@ -30,7 +30,6 @@ tools/31*
 *.sln
 
 # Visual Studio Code
-.vscode
 
 *.key
 
@@ -43,3 +42,6 @@ test/files/main.js
 package-lock.json
 
 .config*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
